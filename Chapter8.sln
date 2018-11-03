@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter8_01_ObjectPointer_3
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter8_02_EmployeeManager2_331p", "Chapter8_02_EmployeeManager2_331p\Chapter8_02_EmployeeManager2_331p.vcxproj", "{D36F985E-A486-481A-B446-AA646C27043A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter8_03_EmployeeManager3_336p", "Chapter8_03_EmployeeManager3_336p\Chapter8_03_EmployeeManager3_336p.vcxproj", "{2DF17940-61C9-4D96-94EE-DF646C48EB3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{D36F985E-A486-481A-B446-AA646C27043A}.Release|x64.Build.0 = Release|x64
 		{D36F985E-A486-481A-B446-AA646C27043A}.Release|x86.ActiveCfg = Release|Win32
 		{D36F985E-A486-481A-B446-AA646C27043A}.Release|x86.Build.0 = Release|Win32
+		{2DF17940-61C9-4D96-94EE-DF646C48EB3E}.Debug|x64.ActiveCfg = Debug|x64
+		{2DF17940-61C9-4D96-94EE-DF646C48EB3E}.Debug|x64.Build.0 = Debug|x64
+		{2DF17940-61C9-4D96-94EE-DF646C48EB3E}.Debug|x86.ActiveCfg = Debug|Win32
+		{2DF17940-61C9-4D96-94EE-DF646C48EB3E}.Debug|x86.Build.0 = Debug|Win32
+		{2DF17940-61C9-4D96-94EE-DF646C48EB3E}.Release|x64.ActiveCfg = Release|x64
+		{2DF17940-61C9-4D96-94EE-DF646C48EB3E}.Release|x64.Build.0 = Release|x64
+		{2DF17940-61C9-4D96-94EE-DF646C48EB3E}.Release|x86.ActiveCfg = Release|Win32
+		{2DF17940-61C9-4D96-94EE-DF646C48EB3E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
