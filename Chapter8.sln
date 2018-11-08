@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter8_08_VirtualDestruct
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter8_09_ReferenceAttribute_361p", "Chapter8_09_ReferenceAttribute_361p\Chapter8_09_ReferenceAttribute_361p.vcxproj", "{4C15C33A-95AE-4ABC-9D5C-E8851242B2BD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter8_10_BankingSystemVer06_366p", "Chapter8_10_BankingSystemVer06_366p\Chapter8_10_BankingSystemVer06_366p.vcxproj", "{23A91017-9A80-4216-81BE-413BEE7533E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{4C15C33A-95AE-4ABC-9D5C-E8851242B2BD}.Release|x64.Build.0 = Release|x64
 		{4C15C33A-95AE-4ABC-9D5C-E8851242B2BD}.Release|x86.ActiveCfg = Release|Win32
 		{4C15C33A-95AE-4ABC-9D5C-E8851242B2BD}.Release|x86.Build.0 = Release|Win32
+		{23A91017-9A80-4216-81BE-413BEE7533E5}.Debug|x64.ActiveCfg = Debug|x64
+		{23A91017-9A80-4216-81BE-413BEE7533E5}.Debug|x64.Build.0 = Debug|x64
+		{23A91017-9A80-4216-81BE-413BEE7533E5}.Debug|x86.ActiveCfg = Debug|Win32
+		{23A91017-9A80-4216-81BE-413BEE7533E5}.Debug|x86.Build.0 = Debug|Win32
+		{23A91017-9A80-4216-81BE-413BEE7533E5}.Release|x64.ActiveCfg = Release|x64
+		{23A91017-9A80-4216-81BE-413BEE7533E5}.Release|x64.Build.0 = Release|x64
+		{23A91017-9A80-4216-81BE-413BEE7533E5}.Release|x86.ActiveCfg = Release|Win32
+		{23A91017-9A80-4216-81BE-413BEE7533E5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
